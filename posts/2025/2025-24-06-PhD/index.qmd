@@ -28,6 +28,6 @@ This work was supported by the Luxembourg National Research Fund (FNR) under gra
 
 On to the next chapter!
 
-hashtag#Biomechanics hashtag#PorousMedia hashtag#SoftTissues hashtag#Microcirculation hashtag#CotutellePhD
+\#Biomechanics \#PorousMedia \#SoftTissues \#Microcirculation \#CotutellePhD
 
 ![](defense3.jpg){width="75%" fig-align="center"}
