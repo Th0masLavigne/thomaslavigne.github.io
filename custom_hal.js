@@ -14,9 +14,9 @@
   
   
     if (bodyClass.contains('quarto-light')) {
-      iframe.src = "https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Lavigne&idHal=thomas-lavigne&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&CB_rubriqueDiv=oui&Fen=Aff&css=https://th0maslavigne.github.io/thomaslavigne.github.io/Hal_css.css";
+      iframe.src = "https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Lavigne&idHal=thomas-lavigne&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&CB_rubriqueDiv=oui&Fen=Aff&css=https://th0maslavigne.github.io/Hal_css.css";
     } else {
-      iframe.src = "https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Lavigne&idHal=thomas-lavigne&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&CB_rubriqueDiv=oui&Fen=Aff&css=https://th0maslavigne.github.io/thomaslavigne.github.io/Hal_css_dark.css";
+      iframe.src = "https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Lavigne&idHal=thomas-lavigne&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_DOI=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&CB_rubriqueDiv=oui&Fen=Aff&css=https://th0maslavigne.github.io/Hal_css_dark.css";
       // iframe.style="background: #222;";
       // iframe.allowtransparency="true";
     }
