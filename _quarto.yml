@@ -20,7 +20,7 @@ website:
   image: Resources/images/profile_pic.jpg
   favicon: Resources/images/profile_pic.jpg
   description: "Thomas Lavigne, PHD, personal webpage"
-  site-url: https://Th0masLavigne.github.io/
+  site-url: https://ThomasLavigne.github.io
   navbar:
     right:
       - href: index.qmd

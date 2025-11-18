@@ -1,0 +1,71 @@
+/*-- scss:defaults --*/
+
+/* Color Definitions from fnrcolors.sty */
+:root {
+  --fnrblue: rgb(56, 99, 124);
+  --fnrgreen: rgb(183, 255, 0);
+  --afrgreen: rgb(140, 255, 15); /* Approximation for CMYK 46,0,93,0 */
+  --fnrwhite: rgb(255, 255, 255);
+  --fnrblack: rgb(0, 0, 0);
+  --thomascyan: rgb(51, 255, 255); /* Approximation for CMYK 80,0,0,0 */
+}
+
+/* Set link color to match \hrefcol from commands.sty */
+a {
+  color: var(--afrgreen);
+}
+
+/* Set custom text colors for direct use in math or spans (requires YAML header change) */
+.afrgreen {
+  color: var(--afrgreen) !important;
+}
+.fnrblue {
+  color: var(--fnrblue) !important;
+}
+
+/* Replicate the Footline and Headline behavior from template.sty
+Set colors to fnrblue (background) and fnrwhite (foreground) 
+*/
+
+/* General styling for the header/footer */
+.reveal .header,
+.reveal .footer {
+  position: absolute;
+  width: 100%;
+  padding: 5px 1em;
+  font-size: 0.6em;
+  font-weight: bold;
+  box-sizing: border-box;
+  z-index: 100;
+  color: var(--fnrwhite); /* foreground: fnrwhite */
+  background-color: var(--fnrblue); /* background: fnrblue */
+}
+
+/* FOOTLINE (Bottom Bar) */
+.reveal .footer {
+  bottom: 0;
+  height: 30px; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Set up the custom footline content defined in template.sty */
+.reveal .footer::before {
+  content: "Thomas Lavigne"; /* \center{\hspace{2ex} Thomas Lavigne ...} */
+  flex-grow: 1;
+  text-align: left;
+}
+
+.reveal .footer::after {
+  content: "PhD Defence - 24 June 2025  " counter(slidenum); /* \event \hfill \insertframenumber */
+  flex-grow: 1;
+  text-align: right;
+}
+
+/* HEADLINE (Top Bar) */
+.reveal .header {
+  top: 0;
+  height: 30px; 
+  /* The headline is usually for the section title */
+}
