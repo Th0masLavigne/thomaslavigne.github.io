@@ -1,0 +1,55 @@
+---
+title: "Biomechanical Response of Human Skin: A Hierarchical Porous Media Framework."
+subtitle: "~"
+author: "Thomas Lavigne"
+date: "24/06/2025"
+format:
+  revealjs:
+    # 16:9 aspect ratio from template.sty
+    slide-width: 1600
+    slide-height: 900
+    # Add a custom class for your CSS styling
+    theme: template/custom-theme.scss
+    # Default is MathJax, but you can force KaTeX if desired
+    html-math-method: mathjax
+    # Optional: include custom header content if you had complex Beamer includes
+    include-in-header: 
+      - text: |
+          <script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+            tex2jax: {
+              inlineMath: [['$','$'], ['\\(','\\)']]
+            },
+            TeX: {
+              Macros: {
+                epsl: '{{\\color{afrgreen} \\varepsilon^l}}', # \epsl macro from commands.sty
+                pl: '{{\\color{red} p^l}}', # \pl macro from commands.sty
+                # Add all other math macros here
+              }
+            }
+          });
+          </script>
+---
+
+
+## Pressure Ulcers (PUs)
+
+::: {.columns}
+
+::: {.column width="60%"}
+**Pressure ulcers:** **localised** injuries to the skin and underlying soft tissue that form during **prolonged exposure** to mechanical loads.
+
+![](images/Pressure-Ulcer-Diagram.jpg){width=90%}
+:::
+
+::: {.column width="40%"}
+::: {.custom-block} 
+  
+* Stage 1 and stage 2 account for **70%** of PUs **{.fragment}**
+* **20%** of hospitalised patients **{.fragment}**
+* **34%** of amputees experienced a skin lesion **{.fragment}**
+
+:::
+:::
+
+:::
