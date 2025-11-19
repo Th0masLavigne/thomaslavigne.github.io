@@ -137,10 +137,25 @@ You can learn more about my background in my <a href="Resources/documents/CV.pdf
 </div>
 
 <div class="carousel-slide">
-  <img src="Resources/images/diverse.png" alt="diverse">
-  <div class="carousel-titlecaption"><b>Diverse works</b> <br> 
-  <span style="font-size: smaller;font-weight: 300">Assembly of diverse works. To be refined.</span></div>
+  <img src="projects/2022/2022-09-01-PhD/expe.png" alt="ldf">
+  <div class="carousel-titlecaption"><b>LDF Expermental set-up.</b> <br> 
+  <span style="font-size: smaller;font-weight: 300">Measuring microcirculation response to an external load.</span></div>
 </div>
+
+<div class="carousel-slide">
+  <img src="Resources/images/profile_pic2.jpeg" alt="bridge">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+
+<div class="carousel-slide">
+  <img src="Resources/images/projet_pont.JPEG" alt="bridge">
+  <div class="carousel-titlecaption"><b>Building a Bridge with ice sticks.</b> <br> 
+  <span style="font-size: smaller;font-weight: 300">Design (theoretical, experimental, numerical) a bridge made of ice sticks as a group project at the ENS (2018-2019).</span></div>
+</div>
+
+
+
 :::
 
 :::{.carousel-nav}

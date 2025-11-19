@@ -9,7 +9,7 @@ image: "furth.jpeg"
 ---
 
 
-Thanks to collaborations with S. Budday, we had the distinct opportunity to spend a productive week visiting the new, state-of-the-art laboratory of the [brainiacs](https://www.lkm.tf.fau.eu/research/) research team at the University of Erlangen-Nuremberg (FAU). This highly collaborative visit allowed us to be warmly received by the group and gain in-depth exposure to their advanced work in brain experimentation and computational modeling. The trip served to strengthen research ties and provided invaluable insights into cutting-edge methodologies for both the physical study and the numerical simulation of complex brain mechanics.
+Thanks to collaborations with Pr. S. Budday, we had the distinct opportunity to spend a productive week visiting the new, state-of-the-art laboratory of the [brainiacs](https://www.lkm.tf.fau.eu/research/) research team at the University of Erlangen-Nuremberg (FAU). This highly collaborative visit allowed us to be warmly received by the group and gain in-depth exposure to their advanced work in brain experimentation and computational modeling. The trip served to strengthen research ties and provided invaluable insights into cutting-edge methodologies for both the physical study and the numerical simulation of complex brain mechanics.
 
 We're excited about the possibility of reconducting this initiative in the future!
 
