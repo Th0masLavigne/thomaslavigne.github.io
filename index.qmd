@@ -1,6 +1,6 @@
 ---
 title: Thomas Lavigne
-image: Resources/images/profile_pic.jpg
+image: Resources/images/profile_pic2.jpg
 bibliography: Resources/biblio/biblio_web.bib
 toc: false
 about:
@@ -142,17 +142,19 @@ You can learn more about my background in my <a href="Resources/documents/CV.pdf
   <span style="font-size: smaller;font-weight: 300">Measuring microcirculation response to an external load.</span></div>
 </div>
 
-<div class="carousel-slide">
-  <img src="Resources/images/profile_pic2.jpeg" alt="bridge">
-  <div class="carousel-titlecaption"><b></b> <br> 
-  <span style="font-size: smaller;font-weight: 300"></span></div>
-</div>
 
 <div class="carousel-slide">
   <img src="Resources/images/projet_pont.JPEG" alt="bridge">
   <div class="carousel-titlecaption"><b>Building a Bridge with ice sticks.</b> <br> 
   <span style="font-size: smaller;font-weight: 300">Design (theoretical, experimental, numerical) a bridge made of ice sticks as a group project at the ENS (2018-2019).</span></div>
 </div>
+
+<div class="carousel-slide">
+  <img src="Resources/images/profile_pic.jpeg" alt="bridge">
+  <div class="carousel-titlecaption"><b></b> <br> 
+  <span style="font-size: smaller;font-weight: 300"></span></div>
+</div>
+
 
 
 
