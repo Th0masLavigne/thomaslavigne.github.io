@@ -23,9 +23,9 @@ website:
   title: "Thomas Lavigne"
   image: Resources/images/profile_pic2.jpeg
   favicon: Resources/images/profile_pic2.jpeg
-  description: "Thomas Lavigne, PhD, post doctor, personal webpage, mechanics, biomechanics, vascular, coupling, poromechanics, hydrogel, fenicsx, simulation, gmsh, porous, medium, biomechanics, CV, Bordeaux, Paris, I2M, LMS, ENS, Ecole normale supérieure Paris-Saclay, ENSAM, IBHGC, website, github, links, th0maslavigne, th0mas lavigne, th0mas, lavigne, research, doctoral, post-doctoral, Université du Luxembourg, Luxembourg, Legato, Team, Polytechnique"
+  description: "Thomas Lavigne, PhD, biomécanique, post doctor, personal webpage, mechanics, biomechanics, vascular, coupling, poromechanics, hydrogel, fenicsx, simulation, gmsh, porous, medium, biomechanics, CV, Bordeaux, Paris, I2M, LMS, ENS, Ecole normale supérieure Paris-Saclay, ENSAM, IBHGC, website, github, links, th0maslavigne, th0mas lavigne, th0mas, lavigne, research, doctoral, post-doctoral, Université du Luxembourg, Luxembourg, Legato, Team, Polytechnique"
   # keywords: "Thomas, Lavigne, Thomas Lavigne, PhD, personal webpage, biomechanics, CV, Bordeaux, Paris, I2M, LMS, ENS, Ecole normale supérieure Paris-Saclay, ENSAM, IBHGC, website, github, links, th0maslavigne, th0mas lavigne, th0mas, lavigne" # Optionnel : Quarto ne gère pas directement une meta-tag "keywords" mais c'est bon pour la structure
-  site-url: https://th0maslavigne.github.io
+  site-url: https://th0maslavigne.github.io/
   navbar:
     right:
       - href: index.qmd
