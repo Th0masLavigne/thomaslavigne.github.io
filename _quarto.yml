@@ -103,7 +103,7 @@ format:
         <script type="application/javascript" src="custom_hal.js"></script>
         <script type="application/javascript" src="carousel.js"></script>
     metadata:
-      keywords: ["Thomas", "Lavigne", "Thomas Lavigne", "PhD", "personal webpage", "biomechanics", "biomécanique", "polytechnioque", "LMS", "CV", "Bordeaux", "Paris", "I2M", "ENS", "Ecole normale supérieure Paris-Saclay", "ENSAM", "IBHGC", "website", "github", "links", "thomaslavigne", "th0maslavigne", "th0mas lavigne", "th0mas", "lavigne"]
+      keywords: ["Thomas Lavigne", "PhD", "biomécanique", "post-doctoral", "personal webpage", "mechanics", "biomechanics", "vascular", "coupling", "poromechanics", "hydrogel", "fenicsx", "simulation", "gmsh", "porous", "medium", "biomechanics", "CV", "Bordeaux", "Paris", "I2M", "LMS", "ENS", "Ecole normale supérieure Paris-Saclay", "ENSAM", "IBHGC", "website", "github", "links", "th0maslavigne", "thomaslavigne", "th0mas lavigne", "th0mas", "lavigne", "research", "doctoral", "post-doctoral", "Université du Luxembourg", "Luxembourg", "Legato", "Team", "Polytechnique"]
 
 header-includes:
   - <script src="carousel.js"></script>
