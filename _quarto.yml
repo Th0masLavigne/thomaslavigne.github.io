@@ -103,6 +103,7 @@ format:
         <script type="application/javascript" src="custom_hal.js"></script>
         <script type="application/javascript" src="carousel.js"></script>
     metadata:
+      description: "Thomas Lavigne, PhD in biomechanics (biomécanique), specialized in vascular mechanics, poromechanics, hydrogels, and numerical simulation (fenics and fenicsx). Personal research webpage presenting projects in FEniCSx, Gmsh, porous media modeling, publications, CV, and post-doctoral work at ENS Paris-Saclay, I2M Bordeaux, Université du Luxembourg, LMS Polytechnique, and the IBHGC laboratory at ENSAM Paris."
       keywords: ["Thomas Lavigne", "PhD", "biomécanique", "post-doctoral", "personal webpage", "mechanics", "biomechanics", "vascular", "coupling", "poromechanics", "hydrogel", "fenicsx", "simulation", "gmsh", "porous", "medium", "biomechanics", "CV", "Bordeaux", "Paris", "I2M", "LMS", "ENS", "Ecole normale supérieure Paris-Saclay", "ENSAM", "IBHGC", "website", "github", "links", "th0maslavigne", "thomaslavigne", "th0mas lavigne", "th0mas", "lavigne", "research", "doctoral", "post-doctoral", "Université du Luxembourg", "Luxembourg", "Legato", "Team", "Polytechnique"]
 
 header-includes:
